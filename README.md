@@ -1,16 +1,23 @@
-Hello! I'm Sturaro 😄
+### Olá! Eu sou o Claudio Sturaro 👨‍💻
 
-Sou especialista em análise de dados e Business Intelligence com foco em entrega de valor e insights acionáveis.
+Datadriver especializado em análise de dados e business intelligence com vasta experiência em desenvolvimento de dashboards, indicadores estratégicos e otimização de processos. Proficiência em modelagem de dados, ELT, consultas em SQL Server, automações RPA, aplicação de testes de hipóteses com destaque para o uso de Python e aplicações em Machine Learning, apresentando resultados com técnicas de storytelling para comunicação eficaz dos insights acionáveis.
 
-Experiência comprovada em:
-•	Desenvolvimento de dashboards interativos e intuitivos no Power BI, otimizados para diferentes públicos e dispositivos, com foco em gerar insights acionáveis;
-•	Elaboração de relatórios concisos e informativos em Excel, utilizando técnicas avançadas de formatação e visualização de dados para facilitar a compreensão;
-•	Modelagem de dados robusta e ETL eficiente no Power Query, garantindo a qualidade e a integração de dados de diferentes fontes;
-•	Consultas em SQL Server para extrair insights precisos e relevantes de grandes conjuntos de dados;
-•	Aplicação de testes de hipóteses com Python, R e Machine Learning para identificar padrões e tendências, prever resultados e tomar decisões estratégicas;
-•	Criação e monitoramento de KPIs alinhados aos objetivos de negócio, com foco na entrega de resultados e na otimização de processos;
-•	Comunicação eficaz de insights através de storytelling, utilizando visualizações de dados e linguagem clara e concisa para diferentes públicos
+### Tecnologias que uso no meu cotidiano
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]() 
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]() 
+[![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)]() 
+[![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]() 
+[![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]() 
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]() 
 
-Estou estudando ciencia de dados há pouco mais de 1 ano e meio, e em 2024 iniciei meu segundo MBA na USP, em Data Science & Analytics.
+Estou estudando ciencia de dados há pouco mais de 1 ano e meio, e em 2024 iniciei meu segundo MBA na USP, em Data Science & Analytics, e busco incansavelmente evoluir minhas habilidades para resolver problemaasa complexos e agregar valor aos negócios.
 
-<img src="https://www.uwo.ca/smss/Data-Science-Slide.jpg">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiosturaro/) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sturarods) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sturaro.ds) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/intl/pt-BR/gmail/about/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sturaro-ds&layout=compact)
+
+![Claudio Sturaro](https://github-readme-stats.vercel.app/api?username=sturaro-ds&show_icons=true&theme=gradiente)
