@@ -1,8 +1,7 @@
-### Olá! Eu sou o Claudio Sturaro 👨‍💻
+### 👨‍💻 Olá! Eu sou o Claudio Sturaro 
+Datadriver especializado em análise de dados e business intelligence com vasta experiência em desenvolvimento de dashboards, indicadores estratégicos e otimização de processos. Proficiência em modelagem de dados, ELT, consultas em SQL Server, automações RPA, aplicação de testes de hipóteses com destaque para o uso de Python e aplicações em Machine Learning, apresentando resultados com técnicas de storytelling para comunicação eficaz dos insights acionáveis. Estou estudando ciencia de dados há pouco mais de 1 ano e meio, e em 2024 iniciei meu segundo MBA na USP, em Data Science & Analytics, e busco incansavelmente evoluir minhas habilidades para resolver problemaasa complexos e agregar valor aos negócios.
 
-Datadriver especializado em análise de dados e business intelligence com vasta experiência em desenvolvimento de dashboards, indicadores estratégicos e otimização de processos. Proficiência em modelagem de dados, ELT, consultas em SQL Server, automações RPA, aplicação de testes de hipóteses com destaque para o uso de Python e aplicações em Machine Learning, apresentando resultados com técnicas de storytelling para comunicação eficaz dos insights acionáveis.
-
-### Tecnologias que uso no meu cotidiano
+### 💻 Tecnologias que uso no meu cotidiano
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]() 
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]() 
 [![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)]() 
@@ -11,8 +10,7 @@ Datadriver especializado em análise de dados e business intelligence com vasta 
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]() 
 
-Estou estudando ciencia de dados há pouco mais de 1 ano e meio, e em 2024 iniciei meu segundo MBA na USP, em Data Science & Analytics, e busco incansavelmente evoluir minhas habilidades para resolver problemaasa complexos e agregar valor aos negócios.
-
+### 📱 Redes profissionais e contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiosturaro/) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sturarods) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sturaro.ds) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/intl/pt-BR/gmail/about/)
