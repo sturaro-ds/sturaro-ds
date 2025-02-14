@@ -1,5 +1,5 @@
-### 👨‍💻 Olá! Eu sou o Claudio Sturaro 
-Datadriver especializado em análise de dados e business intelligence com vasta experiência em desenvolvimento de dashboards, indicadores estratégicos e otimização de processos. Proficiência em modelagem de dados, ELT, consultas em SQL Server, automações RPA, aplicação de testes de hipóteses com destaque para o uso de Python e aplicações em Machine Learning, apresentando resultados com técnicas de storytelling para comunicação eficaz dos insights acionáveis. Estou estudando ciencia de dados há pouco mais de 1 ano e meio, e em 2024 iniciei meu segundo MBA na USP, em Data Science & Analytics, e busco incansavelmente evoluir minhas habilidades para resolver problemaasa complexos e agregar valor aos negócios.
+### 👨‍💻 Olá visitante!
+Eu sou Claudio Sturaro, profissional com sólida experiência em análise de dados e business intelligence. Especializado no desenvolvimento de dashboards, automações e soluções baseadas em dados. Domínio em Python, SQL Server, Power BI, modelagem de dados e testes de hipóteses. Experiência na aplicação de algoritmos de machine learning para resolver problemas de regressão, classificação, séries temporais e NPL, utilizando técnicas de storytelling para comunicação eficaz dos insights acionáveis.
 
 ### 💻 Tecnologias que uso no meu cotidiano
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]() 
