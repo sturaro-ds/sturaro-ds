@@ -1,5 +1,16 @@
-### 👨‍💻 Olá visitante!
-Eu sou Claudio Sturaro, profissional com sólida experiência em análise de dados e business intelligence. Especializado no desenvolvimento de dashboards, automações e soluções baseadas em dados. Domínio em Python, SQL Server, Power BI, modelagem de dados e testes de hipóteses. Experiência na aplicação de algoritmos de machine learning para resolver problemas de regressão, classificação, séries temporais e NPL, utilizando técnicas de storytelling para comunicação eficaz dos insights acionáveis.
+### 👨‍💻 Olá, me chamo Claudio.
+Sou um profissional com sólida experiência em análise de dados e business intelligence. Especializado no desenvolvimento de dashboards, automações e soluções baseadas em dados. Domínio em Python, SQL Server, Power BI, modelagem de dados e testes de hipóteses. Experiência na aplicação de algoritmos de machine learning para resolver problemas de regressão, classificação, séries temporais e NPL, utilizando técnicas de storytelling para comunicação eficaz dos insights acionáveis.
+ 
+### Habilidades e Competências: 
+• Machine Learning e Análise Preditiva: Desenvolvimento de modelos para previsão de regressão, classificação e series temporais, com experiência em scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow e Prophet.
+• Dashboards e Relatórios: Construção de visualizações estratégicas no Power BI, além de geração de insights com Python, Excel e PowerPoint.
+• Automação de Processos: Redução de tarefas manuais em até 90% com scripts Python, otimizando rotinas operacionais.
+• Modelagem de Dados: Transformação e estruturação de dados com SQL, Python e Power Query para análise e tomada de decisão.
+• Estatística Aplicada: Testes de hipóteses e análises estatísticas para identificar padrões e validar soluções.
+• Métricas e Otimização: Definição e monitoramento de KPIs e SLAs, melhorando eficiência operacional e qualidade dos serviços.
+• Gestão de Custos: Simulações financeiras e projeções para controle de despesas e rentabilidade operacional.
+• Auditoria e Qualidade: Experiência com auditorias ISO 9001, análise de riscos e melhoria contínua de processos.
+• Apresentação de Insights: Comunicação de dados e resultados estratégicos por meio de storytelling e visualizações impactantes.
 
 ### 💻 Tecnologias que uso no meu cotidiano
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]() 
