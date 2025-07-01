@@ -13,6 +13,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/intl/pt-BR/gmail/about/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sturaro-ds&layout=compact)
-
 ![Claudio Sturaro](https://github-readme-stats.vercel.app/api?username=sturaro-ds&show_icons=true&theme=gradiente)
